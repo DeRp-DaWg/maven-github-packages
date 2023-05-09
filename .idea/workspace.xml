@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1287164e-bb86-4f2c-97f6-85d5a81ddf4e" name="Changes" comment="Add distribution management tag and changed version to 1.0.0" />
+    <list default="true" id="1287164e-bb86-4f2c-97f6-85d5a81ddf4e" name="Changes" comment="Add chat system and factory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,6 +39,11 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.chat" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683623033093</updated>
-      <workItem from="1683623034458" duration="1261000" />
+      <workItem from="1683623034458" duration="3257000" />
     </task>
     <task id="LOCAL-00001" summary="Add distribution management tag and changed version to 1.0.0">
       <created>1683624281968</created>
@@ -47,7 +61,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683624281968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add distribution management tag and changed version to 1.0.0">
+      <created>1683624382093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683624382093</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change groupId back to org.example">
+      <created>1683624578551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683624578551</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add chat system and factory">
+      <created>1683624949081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683624949081</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add distribution management tag and changed version to 1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add distribution management tag and changed version to 1.0.0" />
+    <MESSAGE value="Change groupId back to org.example" />
+    <MESSAGE value="Add chat system and factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add chat system and factory" />
   </component>
 </project>
